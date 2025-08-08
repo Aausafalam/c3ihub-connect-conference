@@ -20,14 +20,7 @@ const Modal = ({ data, onClose }) => {
                             <h2>{data.name}</h2>
                             <h3>{data.title}</h3>
                             <p>{data.description}</p>
-                            <ul>
-                                <li>
-                                    <span>Affiliation:</span> {data.affiliation}
-                                </li>
-                                <li>
-                                    <span>Domain:</span> {data.domainName} {/* Use the correct domain name */}
-                                </li>
-                            </ul>
+                       
 
                             <div className={styles.social_links}>
                                 {data.linkdinLink && (
