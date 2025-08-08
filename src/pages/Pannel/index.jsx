@@ -88,7 +88,6 @@ const Speakers = () => {
                         .flatMap((domains) =>
                             domains.data.map((item) => ({
                                 ...item,
-                                domainName: domains.name, // Add the domain name to each speaker item
                             }))
                         )
                         .map((item, index) => (

@@ -34,7 +34,7 @@ const Footer = () => {
                                     ></path>
                                 </svg>
                             </a>
-                            <a href="https://www.instagram.com/c3ihub/?hl=en" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true" style={{ color: "#4c68d7" }}>
+                            <a href="https://www.instagram.com/c3ihub.iitkanpur/" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true" style={{ color: "#4c68d7" }}>
                                 <svg
                                     class="svg-inline--fa fa-instagram brand-item"
                                     aria-hidden="true"

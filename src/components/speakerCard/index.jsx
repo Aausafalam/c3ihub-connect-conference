@@ -25,7 +25,13 @@ const SpeakerCard = ({ program, seModalData, setModelModelOpen, keyValue }) => {
                 </div>
 
                 <div style={{ fontSize: "12px", textAlign: "center", marginTop: "1rem" }}>
-                    <span style={{ fontWeight: "bold" }}>Affiliation:</span> {program.affiliation}&nbsp; | &nbsp;<span style={{ fontWeight: "bold" }}>Domain:</span> {program.domainName}
+                    {
+                        program.affiliation && 
+                  <>  <span style={{ fontWeight: "bold" }}>Affiliation:</span> {program.affiliation}&nbsp;  </>
+                    }
+                    {
+                        program.domainName && <><span style={{ fontWeight: "bold" }}>| &nbsp;Domain:</span> {program.domainName}</>
+                    } 
                 </div>
                 <div className={Styles.moreInfo}>
                     <button

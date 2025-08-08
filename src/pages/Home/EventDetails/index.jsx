@@ -43,7 +43,7 @@ const EventDetails = () => {
                 <div className={styles.right_container}>
                     <div className={styles.footer_map}>
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22544.125934656473!2d78.10191117385774!3d27.141268806066666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3974713cc4a9238b%3A0x94adedd7bc3afe5b!2sJaypee%20Palace%20Hotel%20%26%20Convention%20Centre%20-%205%20Star%20Deluxe%20Hotel%20in%20Agra!5e0!3m2!1sen!2sin!4v1690432229199!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.015521105951!2d77.14988691175786!3d28.5392531882079!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3df4b21eb07%3A0xe51874d2759b0441!2sThe%20Grand%20New%20Delhi!5e0!3m2!1sen!2sin!4v1754650010939!5m2!1sen!2sin"
                             width="100%"
                             height="300"
                             allowfullscreen=""
