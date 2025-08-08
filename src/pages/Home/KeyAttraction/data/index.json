@@ -3,24 +3,24 @@
         "name": "Panel Discussion",
         "image": "Panel discussion.png",
         "url": "/panel-discussions/all",
-        "info": "Join us for an engaging panel discussion where thought leaders and industry experts come together to share diverse perspectives, insightful experiences, and practical solutions."
+        "info": "Engage with industry leaders, investors, and innovators as they share insights on trends, challenges, and opportunities shaping the future of cybersecurity."
     },
     {
         "name": "Innovation Showcase",
         "image": "Showcase.png",
         "url": "/talks/investors",
-        "info": "Step into a dynamic exchange of ideas at our panel discussion during the Innovation Showcase. Visionaries, creators, and industry pioneers will dive deep into the latest trends, challenges, and breakthroughs shaping the world of innovation."
+        "info": "Experience cutting-edge solutions from emerging startups. Discover groundbreaking ideas and technologies that are redefining the innovation landscape."
     },
     {
         "name": "Product Launch",
         "image": "Product Launch.png",
         "url": "/pavilion/r&d-pavilion",
-        "info": "As part of our product launch, join us for an exclusive panel discussion featuring the brilliant minds behind the creation. Discover the journey from idea to execution, the challenges overcome, and the innovation that sets this product apart."
+        "info": "Witness the unveiling of next-gen products and services. Explore market-ready solutions designed to address real-world challenges."
     },
     {
         "name": "Investor Pitch",
         "image": "Investor Pitch.png",
         "url": "/pavilion/start-up-pavilion",
-        "info": "Join us for an insightful panel discussion featuring seasoned investors, startup founders, and industry leaders as they explore what makes a venture truly investment-worthy. Gain insider perspectives on market trends."
+        "info": "Watch promising startups pitch to leading investors. See innovative ideas compete for funding, mentorship, and strategic partnerships."
     }
 ]
