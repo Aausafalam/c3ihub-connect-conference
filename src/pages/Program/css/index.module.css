@@ -152,7 +152,7 @@
     align-items: center;
     background: hsl(0, 0%, 10%, 0.4);
     background-color: transparent;
-    color: #d83560;
+    color: #980020;
     /* box-shadow: 5px 5px 10px #3f3b3b; */
 }
 
@@ -209,7 +209,7 @@
 .resultDate {
     font-size: 1rem;
     font-weight: 400;
-    color: #d83560;
+      color: color-mix(in srgb, #0e0d0d, transparent 20%);;
     /* color: color-mix(in srgb, #ffff, transparent 20%); */
 }
 

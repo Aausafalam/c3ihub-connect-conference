@@ -349,7 +349,7 @@ export const initialProgramSchedule = [
         theme: "Cybersecurity",
         venue: "Main Hall",
     },
-    ,
+    
         {
         id: 6,
         day: "21st August 2025",
@@ -359,10 +359,18 @@ export const initialProgramSchedule = [
         venue: "Main Hall",
     },
         {
+        id: 6,
+        day: "21st August 2025",
+        time: "04:00 PM – 06:00 PM",
+        event: ["Product Launch"],
+        theme: "Cybersecurity",
+        venue: "Main Hall",
+    },
+        {
         id: 7,
         day: "21st August 2025",
         time: "06:00 PM – 06:45 PM",
-        event: ["Valedictory Session"],
+        event: ["Panel 4:Evolving Startup Ecosystem: Today's Landscape & Way Forward"],
         theme: "Cybersecurity",
         venue: "Main Hall",
     },

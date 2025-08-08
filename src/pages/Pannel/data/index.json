@@ -146,6 +146,15 @@
                 "linkdinLink": "https://www.linkedin.com/in/somitra-sanadhya-4556a41/?originalSubdomain=in"
             },
             {
+                "name": "Dr. Bharat Panchal",
+                "title": "Architect of India’s Risk Management & Cybersecurity Framework for Digital Payments",
+                "image": "bharat.jpeg",
+                "affiliation": "Building Bima Sugam",
+                "description": "A leading force in India’s cybersecurity and risk management landscape, known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in and the 1930 helpline. Played a pivotal role in shaping the country’s digital payment security while building high-performing risk teams at NPCI.Advises key government bodies including MEITY, CERT-IN, RBI, and IDRBT, and works closely with global networks like VISA, MasterCard, SWIFT, and World Bank. A globally recognized speaker, featured in 250+ Indian and 25+ international conferences across 40+ countries. Now driving the vision behind Bima Sugam, India’s unified digital insurance platform.",
+                "speakerType": "Panelist",
+                "linkdinLink": "https://www.linkedin.com/in/bharatpanchal/"
+            },
+            {
                 "name": "Ranjeet Mishra",
                 "title": "Strategy Leader",
                 "image": "ranjeet.jpg",
@@ -153,15 +162,6 @@
                 "description": "Ranjeet Mishra is a seasoned technology and strategy leader with over 24 years of global experience across North America, APAC, and the Middle East. He specializes in go-to-market strategy, international business development, and scaling deep-tech startups in IT, telecom, and cybersecurity. With deep expertise in cybersecurity policy, governance, and risk frameworks, Ranjeet has worked extensively in areas such as IoT security, deception technologies, threat intelligence, and SoC management. He is also actively involved in cybercrime investigation frameworks, Cyberrange training, and startup incubation.A trusted advisor and technical mentor, Ranjeet is passionate about driving innovation, digital transformation, and building resilient cybersecurity ecosystems.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/ranjeet-mishra-0a687916/"
-            },
-            {
-                "name": "Bharat Panchal",
-                "title": "Architect of India’s Risk Management & Cybersecurity Framework for Digital Payments",
-                "image": "bharat.jpeg",
-                "affiliation": "Building Bima Sugam",
-                "description": "A leading force in India’s cybersecurity and risk management landscape, known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in and the 1930 helpline. Played a pivotal role in shaping the country’s digital payment security while building high-performing risk teams at NPCI.Advises key government bodies including MEITY, CERT-IN, RBI, and IDRBT, and works closely with global networks like VISA, MasterCard, SWIFT, and World Bank. A globally recognized speaker, featured in 250+ Indian and 25+ international conferences across 40+ countries. Now driving the vision behind Bima Sugam, India’s unified digital insurance platform.",
-                "speakerType": "Panelist",
-                "linkdinLink": "https://www.linkedin.com/in/bharatpanchal/"
             }
         ]
     }

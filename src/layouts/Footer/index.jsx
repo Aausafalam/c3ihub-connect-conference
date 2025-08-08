@@ -134,7 +134,7 @@ const Footer = () => {
                 </div>
                 <div className={styles.footerContactInfo}>
                     <h2>Contact Us</h2>
-                    <p>connect@c3ihub.iitk.ac.in</p>
+                    <p>startup@c3ihub.iitk.ac.in</p>
                     <p>C3iHub, 2nd Floor, Technopark Phase I, IIT Kanpur</p>
                     <p>Kanpur - 208016</p>
                     <p>Uttar Pradesh, India</p>
