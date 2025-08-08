@@ -1,0 +1,217 @@
+:root {
+    --brand-color: #ff8e06;
+    /* --brand-color: #f22044 */
+}
+.home_wrapper {
+    background-color: #ffffff;
+}
+
+.container_wrapper {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    min-height: 750px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #f9c593;
+}
+.banner_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 5%;
+    gap: 1rem;
+    flex-wrap: wrap;
+    height: 100%;
+    /* max-width: 1500px; */
+    width: 100%;
+    margin: auto;
+}
+
+.banner_header_left {
+    flex: 1;
+    min-width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.event_image_logo {
+    max-width: 700px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.tagline {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #6a0020;
+    margin-bottom: 0.5rem;
+}
+
+.slogan {
+    font-size: 2rem;
+    color: #d83560;
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+
+.slogan strong {
+    color: #980020;
+}
+
+.sideimage {
+    flex: 1;
+    /* min-width: 350px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.event_image {
+    max-width: 550px;
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 1rem;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.fade_out {
+    animation: fadeInOut 1.5s ease-in-out;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.container > div h2 {
+    font-size: 2.5rem;
+}
+
+.container > div h2 span {
+    color: var(--brand-color);
+}
+
+.container > div p {
+    font-size: 1.2rem;
+    color: #980020;
+}
+
+.banner_footer {
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    padding-block: 2.5rem;
+    color: #980020;
+    margin-top: auto;
+}
+
+.banner_footer:before {
+    content: "";
+    /* background:
+        color-mix(in srgb, #000820, transparent 50%); */
+    background-image: url("/public/home/logo/banner_footer_img.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.banner_footer > div {
+    max-width: var(--max-width);
+    margin: auto;
+    display: flex;
+    position: relative;
+    z-index: 3;
+    gap: 1rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-inline: 1rem;
+}
+
+.about_event {
+    width: 100%;
+    max-width: 650px;
+}
+
+.banner_footer > div h2 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.banner_footer > div h2 svg {
+    width: 1.35rem;
+    height: 1.35rem;
+    color: var(--brand-color);
+}
+
+.banner_footer > div p {
+    font-size: 1rem;
+}
+
+.about_event > div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.conference_logo {
+    width: 155px;
+    /* height: 100px; */
+    mix-blend-mode: multiply;
+    margin-bottom: 0.1rem;
+}
+
+@media screen and (max-width: 720px) {
+    .container > div h1 {
+        font-size: 2rem;
+    }
+
+    .container > div h2 {
+        font-size: 1.5rem;
+    }
+
+    .container > div p {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .container > div:first-of-type {
+        padding-top: 6rem;
+        padding-bottom: 2rem;
+    }
+
+    .container_wrapper {
+        min-height: 1020px;
+    }
+
+    .banner_footer {
+        padding-block: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 358px) {
+    .container_wrapper {
+        min-height: 1070px;
+    }
+}

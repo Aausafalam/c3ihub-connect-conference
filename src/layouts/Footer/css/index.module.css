@@ -1,0 +1,148 @@
+.footer {
+    background-image: url("/public/home/logo/banner_footer_img.png");
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    z-index: 1000;
+    color: #980020;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-repeat: no-repeat;
+}
+
+.footerCompanyLogo {
+    /* width: 80px; */
+    height: 80px;
+    margin: 0 auto;
+    mix-blend-mode: multiply;
+    margin-bottom: 1rem;
+}
+
+.footerWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+
+.footerCompanyInfo {
+    max-width: 600px;
+}
+
+.footerCompanyInfo,
+.footerConferenceInfo,
+.footerContactInfo,
+.footerCompanyDescription {
+    width: 100%;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.footerCompanyDescription {
+    padding: 0rem;
+}
+
+.linksWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 0.8rem;
+}
+
+.links {
+    color: #980020;
+    text-decoration: none;
+    font-size: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+.footerConferenceInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.footerConferenceInfo h2 {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.footerContactInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.social_tags {
+    margin-top: 1rem;
+}
+
+.social_tags > div {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.social_tags > div svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--brand-color);
+}
+
+.footerContactInfo h2 {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+    .footer {
+        padding: 20px 5rem;
+    }
+
+    .footerWrapper {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .footerCompanyInfo,
+    .footerConferenceInfo,
+    .footerContactInfo,
+    .footerCompanyDescription {
+        width: auto;
+        text-align: left;
+    }
+
+    .linksWrapper {
+        /* flex-direction: row;
+    flex-wrap: wrap; */
+    }
+
+    .links {
+        font-size: 1rem;
+        width: 200px;
+        text-align: start;
+    }
+}
+
+/* Media query for mobile display */
+
+@media (max-width: 767px) {
+    .footerCompanyInfo,
+    .footerConferenceInfo,
+    .footerContactInfo,
+    .footerCompanyDescription {
+        width: 100%;
+        text-align: left;
+    }
+
+    .links {
+        text-align: left;
+    }
+}

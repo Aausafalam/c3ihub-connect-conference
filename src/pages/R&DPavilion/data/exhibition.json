@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Exhibition Showcase",
+"basePath": "exhibition",
+        "data": [
+           
+            {
+                "logo": "1.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "2.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "3.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "4.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "5.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "6.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "26.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "27.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "28.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "31.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "35.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "37.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "AccelPro.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "ansh.jfif",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "Cyberchakra.jpeg",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "cyberultron.png",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "engaiz.jpg",
+                "url": "https://www.saptang.com/"
+            },{
+                "logo": "maraal aerospace.png",
+                "url": "https://www.saptang.com/"
+            }
+            ,{
+                "logo": "saptaang labs.png",
+                "url": "https://www.saptang.com/"
+            }
+            ,{
+                "logo": "securedapp.png",
+                "url": "https://www.saptang.com/"
+            }
+           
+        ]
+    }
+
+ 
+]

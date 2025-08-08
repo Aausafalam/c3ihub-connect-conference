@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Startup Pitching",
+        "basePath": "startuppitching",
+        "data": [
+           
+            {
+                "logo": "1.png",
+                "url": "https://www.saptang.com/"
+            },
+           {
+                "logo": "11.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "19.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "26.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "28.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "35.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "37.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "engaiz.jpg",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "securedapp.png",
+                "url": "https://www.saptang.com/"
+            }
+        ]
+    }
+
+ 
+]

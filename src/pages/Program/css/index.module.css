@@ -1,0 +1,318 @@
+/* Base styles remain the same */
+
+.containerWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 89.59px;
+    padding: 5rem;
+    padding-inline: 0;
+    background-color: #F9C593;
+
+}
+
+.heroSection {
+    padding-inline: 1rem;
+    width: 100%;
+    max-width: var(--max-width);
+    text-align: center;
+}
+.programmeTitle{
+
+    color: #BE0808;
+    font-weight: 700;
+    font-style: bold;
+}
+.containerTitle {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #BE0808;
+    font-style: bold;
+    font-family: var(--second-font-family);
+}
+
+.containerSubTitle {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    color: color-mix(in srgb, #ffff, transparent 20%);
+}
+
+.containerRegistrationButton {
+    border: 0.2px solid hsl(25, 100%, 60%);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    background: hsl(0, 0%, 10%);
+    width: fit-content;
+    margin: auto;
+}
+
+.containerRegistrationButton:hover {
+    background: hsl(25, 100%, 60%, 0.2);
+}
+
+.containerBody {
+    width: 100%;
+    max-width: var(--max-width);
+    padding-inline: 1rem;
+}
+
+.containerSearchContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    width: 100%;
+    border: 0.2px solid hsl(25, 100%, 60%);
+    border-radius: 5px;
+    background: hsl(0, 0%, 8%, 0.4);
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.containerSearchContentHeader {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.containerSearchContentHeaderTabs {
+    display: flex;
+    gap: 1rem;
+    border: 0.2px solid hsl(25, 100%, 60%);
+    border-radius: 10px;
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.containerSearchContentBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    width: 100%;
+}
+
+.containerSearchContentDropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 200px;
+    background: hsl(0, 0%, 10%, 0.4);
+    color: white;
+    align-items: center;
+    padding: 0.75rem;
+    justify-content: center;
+    outline: none;
+    border: 0.1px solid hsl(25, 100%, 60%);
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+}
+
+.containerSearchContentDropdown &:focus-visible {}
+
+.containerSearchContentBodyItem {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+}
+
+.containerSearchResults {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.containerSearchResult {
+    padding: 1rem;
+    border: 2px solid #D83560;
+    width: 100%;
+    border-radius: 0.5rem;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    background: hsl(0, 0%, 10%, 0.4);
+    background-color:transparent;
+    color: #D83560;
+    /* box-shadow: 5px 5px 10px #3f3b3b; */
+}
+
+.resultDuration {
+    width: 100%;
+    font-size: 1.7rem;
+    font-weight: 600;
+    max-width: 500px;
+    border-right: 1px solid hsl(25, 100%, 60%);
+    margin-bottom: 0.5rem;
+    color: #980020;
+}
+
+.resultInfo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.resultInfoWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+        font-size: 1rem;
+
+}
+
+.resultInfoTitle {
+    font-weight: 600;
+    padding-right: 1rem;
+}
+
+.resultInfoTitle ul {
+    list-style: disc;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    /* background-color: hsl(0, 2%, 9%); */
+    /* border-left: 1px solid hsl(0, 0%, 13%); */
+    /* border-radius: .5rem; */
+    padding: 0.5rem;
+    padding-inline: 1.2rem;
+}
+
+.resultInfoTitle ul li {
+    font-size: 1.5rem;
+}
+
+.resultMoreSubtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.resultDate {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #D83560;
+    /* color: color-mix(in srgb, #ffff, transparent 20%); */
+}
+
+.moreInfoButton {
+    background: transparent;
+    border: 0.2px solid hsl(25, 100%, 60%);
+    color: hsl(25, 100%, 60%);
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+/* Media queries for mobile responsiveness */
+
+@media (max-width: 768px) {
+    .containerWrapper {
+        margin-top: 50px;
+        padding: 2rem;
+        padding-block: 5rem;
+    }
+
+    .containerTitle {
+        font-size: 3rem;
+    }
+
+    .containerSubTitle {
+        font-size: 1.25rem;
+    }
+
+    .resultDate {
+        margin-bottom: 0.5rem;
+    }
+
+    .containerRegistrationButton {
+        font-size: 1.25rem;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .containerSearchContentBody {
+        flex-direction: column;
+    }
+
+    .containerSearchResult {
+        flex-direction: column;
+        gap: 0rem;
+    }
+
+    .resultDuration {
+        font-size: 2rem;
+        border-right: none;
+        border-bottom: 1px solid hsl(25, 100%, 60%);
+    }
+
+    .resultInfo {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+@media (max-width: 480px) {
+    .containerWrapper {
+        margin-top: 30px;
+        padding: 1rem;
+        padding-block: 5rem;
+    }
+
+    .containerTitle {
+        font-size: 2.5rem;
+    }
+
+    .containerSubTitle {
+        font-size: 1rem;
+    }
+
+    .containerRegistrationButton {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+    }
+
+    .containerSearchContentHeaderTabs {
+        padding: 0.5rem;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    .containerSearchContentDropdown {
+        width: 100%;
+        height: auto;
+        padding: 0.5rem;
+    }
+
+    .resultDuration {
+        font-size: 1.5rem;
+    }
+
+    .resultInfoTitle,
+    .resultMoreSubtitle,
+    .resultDate {
+        font-size: 1rem;
+    }
+}

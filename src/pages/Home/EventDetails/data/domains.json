@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Electronic Warfare",
+        "image": "home/eventDetails/domains/electronic.png"
+    },
+    {
+        "name": "Post-Quantum Cryptography",
+        "image": "home/eventDetails/domains/quantum.jpg"
+    },
+    {
+        "name": "Supply Chain Security",
+        "image": "home/eventDetails/domains/supply.png"
+    },
+    {
+        "name": "Advanced Persistent Threat",
+        "image": "home/eventDetails/domains/threat.png"
+    }
+]

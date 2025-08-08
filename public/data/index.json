@@ -1,0 +1,19 @@
+[
+    {
+      "name": "John Doe",
+      "university": "University of Example",
+      "details": "Expert in AI and Machine Learning."
+    },
+    {
+      "name": "Jane Smith",
+      "university": "Another University",
+      "details": "Renowned Data Scientist and Author."
+    },
+    {
+      "name": "Alice Johnson",
+      "university": "Tech University",
+      "details": "Pioneer in Cybersecurity."
+    }
+
+  ]
+  

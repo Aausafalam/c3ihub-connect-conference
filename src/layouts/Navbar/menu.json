@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Home",
+    "url": "/"
+  },
+  {
+    "name": "Program",
+    "url": "/program"
+  },
+  {
+    "name": "Panel Discussions",
+    "parentUrl": "/speakers",
+    "url": "/speakers/all",
+    "child": [
+      {
+        "name": "Mission Rakshak",
+        "url": "/electronic-warfare"
+      },
+      {
+        "name": "From Roadblocks to Runways",
+        "url": "/supply-chain-security"
+      },
+      {
+        "name": "Unlocking synergies for greater impact",
+        "url": "/post-quantum-cryptography"
+      }
+      ,
+      {
+        "name": "Evolving Startup Ecosystem",
+        "url": "/advanced-persistent-threats"
+      }
+    ]
+  },
+  {
+    "name": "Pavilion",
+    "url": "/pavilion",
+    "parentUrl": "/pavilion",
+    "child": [
+      {
+        "name": "Exhibition",
+        "url": "/exhibition"
+      },
+      {
+        "name": "Product Launch",
+        "url": "/product-launch"
+      },
+      {
+        "name":"Startup Pitching",
+        "url":"/startup-pitching"
+      }
+    ]
+  },
+  {
+    "name": "Investors",
+    "url": "/talks/pannel-discussion"
+  },
+  {
+    "name": "Contact us",
+    "url": "/contact-us"
+  }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Product Launch",
+    "basePath": "productlaunch",
+        "data": [
+           
+            {
+                "logo": "1.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "26.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "37.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "maraal aerospace.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "saptaang labs.png",
+                "url": "https://www.saptang.com/"
+            },
+            {
+                "logo": "securedapp.png",
+                "url": "https://www.saptang.com/"
+            }
+           
+        ]
+    }
+
+ 
+]

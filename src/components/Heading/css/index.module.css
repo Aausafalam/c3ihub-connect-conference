@@ -1,0 +1,26 @@
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.heading h1 {
+    display: inline-block;
+    position: relative;
+    font-size: 2rem;
+}
+
+.heading h1::after {
+    content: "";
+    display: block;
+    width: 50%;
+    height: 4px;
+    background-color: #be0808;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 550px) {
+    .heading h1 {
+        font-size: 1.5rem;
+    }
+}
