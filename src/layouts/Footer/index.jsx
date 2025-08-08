@@ -112,22 +112,22 @@ const Footer = () => {
                 <div className={styles.footerConferenceInfo}>
                     <h2>About Conference</h2>
                     <div className={styles.linksWrapper}>
-                        <a className={styles.links} href="/ccetc2024/">
+                        <a className={styles.links} href="/connect/">
                             Home
                         </a>
-                        <a className={styles.links} href="/ccetc2024/program">
+                        <a className={styles.links} href="/connect/program">
                             Program
                         </a>
-                        <a className={styles.links} href="/ccetc2024/panel-discussions/all">
+                        <a className={styles.links} href="/connect/panel-discussions/all">
                             Panel Discussions
                         </a>
-                        <a className={styles.links} href="/ccetc2024/pavilion">
+                        <a className={styles.links} href="/connect/pavilion">
                             Pavilion
                         </a>
-                        <a className={styles.links} href="/ccetc2024/talks/investors">
+                        <a className={styles.links} href="/connect/talks/investors">
                             Investors
                         </a>
-                        <a className={styles.links} href="/ccetc2024/contact-us">
+                        <a className={styles.links} href="/connect/contact-us">
                             Contact us
                         </a>
                     </div>

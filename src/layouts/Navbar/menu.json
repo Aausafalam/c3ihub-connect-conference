@@ -9,7 +9,7 @@
     },
     {
         "name": "Panel Discussions",
-        "parentUrl": "/speakers",
+        "parentUrl": "/panel-discussions",
         "url": "/panel-discussions/all",
         "child": [
             {
