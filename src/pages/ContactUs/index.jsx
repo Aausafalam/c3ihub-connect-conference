@@ -35,7 +35,7 @@ const ContactUS = () => {
                         <div>
                             <div>{ICONS.EMAIL}</div>
                             <div>
-                                <p>connect@c3ihub.iitk.ac.in</p>
+                                <p>startup@c3ihub.iitk.ac.in</p>
                             </div>
                         </div>
                         <div className={styles.followUs}>
@@ -46,7 +46,7 @@ const ContactUS = () => {
                                 <a href="https://www.facebook.com/C3iHub.org" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true">
                                     {ICONS.FACEBOOK}
                                 </a>
-                                <a href="https://www.instagram.com/c3ihub/?hl=en" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true">
+                                <a href="https://www.instagram.com/c3ihub.iitkanpur/" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true">
                                     {ICONS.INSTAGRAM}
                                 </a>
                                 <a href="https://www.linkedin.com/company/c3i-hub/" rel="noopener noreferrer" target="_blank" class="icon" previewlistener="true">

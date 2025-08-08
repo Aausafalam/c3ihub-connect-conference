@@ -106,6 +106,7 @@
 
 .container > div p {
     font-size: 1.2rem;
+    text-align: justify;
     color: #980020;
 }
 
