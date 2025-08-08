@@ -28,7 +28,7 @@
     font-size: 1.5rem;
     font-weight: 400;
     margin-bottom: 2rem;
-    color: color-mix(in srgb, #ffff, transparent 20%);
+    color: color-mix(in srgb, #0e0d0d, transparent 20%);
 }
 
 .containerBody {

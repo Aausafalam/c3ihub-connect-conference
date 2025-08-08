@@ -118,11 +118,14 @@ const Footer = () => {
                         <a className={styles.links} href="/ccetc2024/program">
                             Program
                         </a>
-                        <a className={styles.links} href="/ccetc2024/speakers/all">
-                            Speakers
+                        <a className={styles.links} href="/ccetc2024/panel-discussions/all">
+                            Panel Discussions
                         </a>
                         <a className={styles.links} href="/ccetc2024/pavilion">
                             Pavilion
+                        </a>
+                        <a className={styles.links} href="/ccetc2024/talks/investors">
+                            Investors
                         </a>
                         <a className={styles.links} href="/ccetc2024/contact-us">
                             Contact us
@@ -131,7 +134,7 @@ const Footer = () => {
                 </div>
                 <div className={styles.footerContactInfo}>
                     <h2>Contact Us</h2>
-                    <p>events@c3ihub.iitk.ac.in</p>
+                    <p>connect@c3ihub.iitk.ac.in</p>
                     <p>C3iHub, 2nd Floor, Technopark Phase I, IIT Kanpur</p>
                     <p>Kanpur - 208016</p>
                     <p>Uttar Pradesh, India</p>

@@ -1,140 +1,138 @@
 .Modal {
-  text-align: center;
-  margin-top: 50px;
+    text-align: center;
+    margin-top: 50px;
 }
 
 .modalOverlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.9);
-  display: flex;
-  justify-content: center;
-  z-index: 100;
-  overflow: auto;
-  padding-block: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    z-index: 100;
+    overflow: auto;
+    padding-block: 1rem;
 }
 
 .grid {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 1rem;
-  margin-top: 1rem;
-  text-align: left;
-  height: fit-content;
-  padding-inline: 1rem;
-  max-width: var(--max-width);
-  margin-block: auto;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+    text-align: left;
+    height: fit-content;
+    padding-inline: 1rem;
+    max-width: var(--max-width);
+    margin-block: auto;
 }
 
 .grid_item {
-  display: flex;
-  padding: 0.8rem;
-  border: 1px solid var(--brand-color);
-  gap: 1rem;
-  width: 100%;
-  border-radius: 0.5rem;
-  position: relative;
-  background-color: rgb(24, 24, 24);
-
+    display: flex;
+    padding: 0.8rem;
+    border: 1px solid var(--brand-color);
+    gap: 1rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    position: relative;
+    background-color: rgb(24, 24, 24);
 }
 
-.grid_item>div {
-  width: 100%;
+.grid_item > div {
+    width: 100%;
 }
 
 .grid_item .left {
-  max-width: 290px;
-  max-height: 290px;
-  height: 100%;
+    max-width: 290px;
+    max-height: 290px;
+    height: 100%;
 }
 
 .grid_item .left img {
-  width: 100%;
-  height: 100%;
-  border-radius: 0.4rem;
-  object-position: center;
-  object-fit: cover;
-  /* border-radius: 50%; */
+    width: 100%;
+    height: 100%;
+    border-radius: 0.4rem;
+    object-position: center;
+    object-fit: cover;
+    /* border-radius: 50%; */
 }
 
 .grid_item .right {
-  display: flex;
-  gap: .4rem;
-  flex-direction: column;
+    display: flex;
+    gap: 0.4rem;
+    flex-direction: column;
 }
 
 .grid_item .right h2 {
-  font-size: 1.4rem;
-  font-weight: 650;
+    font-size: 1.4rem;
+    font-weight: 650;
 }
 
 .grid_item .right h3 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  color: var(--brand-color);
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: var(--brand-color);
 }
 
 .grid_item .right p {
-  font-size: 1rem;
-  display: -webkit-box;
-  /* -webkit-line-clamp: 2; */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.5rem;
+    font-size: 1rem;
+    display: -webkit-box;
+    /* -webkit-line-clamp: 2; */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5rem;
 }
 
-
 .grid_item .right ul li {
-  font-size: 1.05rem;
-  margin-bottom: 0.4rem;
+    font-size: 1.05rem;
+    margin-bottom: 0.4rem;
 }
 
 .grid_item .right ul li span {
-  font-weight: 700;
+    font-weight: 700;
 }
 
 .keynote {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
-  background-color: var(--brand-color);
-  border-radius: 0.2rem;
-  padding-inline: 0.5rem;
-  padding-block: 0.1rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background-color: var(--brand-color);
+    border-radius: 0.2rem;
+    padding-inline: 0.5rem;
+    padding-block: 0.1rem;
 }
 
 .social_links {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
 }
 
 .moreInfoButton {
-  background: hsl(0, 21%, 6%);
-  border: 0.2px solid hsl(25, 100%, 60%);
-  color: white;
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-  border-radius: 0.25rem;
-  cursor: pointer;
-  white-space: nowrap;
-  margin-left: auto;
+    background: hsl(0, 21%, 6%);
+    border: 0.2px solid var(--brand-color);
+    color: white;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    white-space: nowrap;
+    margin-left: auto;
 }
 
 .social_links a {
-  color: var(--brand-color) !important;
+    color: var(--brand-color) !important;
 }
 
 @media screen and (max-width: 968px) {
-  .grid_item {
-    flex-direction: column;
-  }
+    .grid_item {
+        flex-direction: column;
+    }
 }

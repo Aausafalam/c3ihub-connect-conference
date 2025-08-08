@@ -2,9 +2,9 @@ import React, { useEffect, useState } from "react";
 import styles from "./css/index.module.css";
 import speakersData from "./data/investor.json";
 import SpeakerCard from "../../components/speakerCard";
+import Modal from "../Pannel/modal";
 
 const PannelDiscussion = () => {
-
     const [data, setData] = useState(speakersData);
     const [modalData, seModalData] = useState({});
     const [isModelOpen, setModelModelOpen] = useState(false);
@@ -18,21 +18,19 @@ const PannelDiscussion = () => {
                 Join our experts as they engage in insightful discussions on the latest strategies and innovations in <span>cybersecurity and cyber defense</span>
             </div> */}
 
-
-                   <div className={styles.grid}>
-                    {data
-                        .flatMap((domains) =>
-                            domains.data.map((item) => ({
-                                ...item,
-                                domainName: domains.name, // Add the domain name to each speaker item
-                            }))
-                        )
-                        .map((item, index) => (
-                            <SpeakerCard key={item.name} keyValue={index} program={item} seModalData={seModalData} setModelModelOpen={setModelModelOpen} />
-                        
-                        ))}
-                </div>
-           
+            <div className={styles.grid}>
+                {data
+                    .flatMap((domains) =>
+                        domains.data.map((item) => ({
+                            ...item,
+                            domainName: domains.name, // Add the domain name to each speaker item
+                        }))
+                    )
+                    .map((item, index) => (
+                        <SpeakerCard key={item.name} keyValue={index} program={item} seModalData={seModalData} setModelModelOpen={setModelModelOpen} />
+                    ))}
+            </div>
+            {isModelOpen && <Modal data={modalData} onClose={() => setModelModelOpen(false)} />}
         </section>
     );
 };

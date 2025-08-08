@@ -35,7 +35,7 @@ const ContactUS = () => {
                         <div>
                             <div>{ICONS.EMAIL}</div>
                             <div>
-                                <p>events@c3ihub.iitk.ac.in</p>
+                                <p>connect@c3ihub.iitk.ac.in</p>
                             </div>
                         </div>
                         <div className={styles.followUs}>

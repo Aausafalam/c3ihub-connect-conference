@@ -23,25 +23,23 @@
     mix-blend-mode: multiply;
 }
 
-.container .logo>img {
+.container .logo > img {
     width: 100%;
     height: 100%;
 }
 
-
-
-.container nav>ul {
+.container nav > ul {
     display: flex;
     align-items: center;
     gap: 2rem;
 }
 
-.container nav>ul>li>ul {
+.container nav > ul > li > ul {
     display: none;
 }
 
-.container nav>ul>li a {
-    color: #BE0808;
+.container nav > ul > li a {
+    color: #be0808;
     font-size: 1.05rem;
     position: relative;
     display: flex;
@@ -50,19 +48,19 @@
     transition: all 0.2s ease-in-out 0s;
 }
 
-.container nav>ul>li:hover svg {
+.container nav > ul > li:hover svg {
     transform: rotate(180deg);
 }
 
-.container nav>ul>li {
+.container nav > ul > li {
     position: relative;
 }
 
-.container nav>ul>li:hover ul {
+.container nav > ul > li:hover ul {
     display: block;
 }
 
-.container nav>ul>li:hover ul {
+.container nav > ul > li:hover ul {
     position: absolute;
     top: 1.5rem;
     display: flex;
@@ -72,28 +70,28 @@
     z-index: 10;
 }
 
-.container nav>ul>li:hover ul>div>li>a {
+.container nav > ul > li:hover ul > div > li > a {
     white-space: nowrap;
 }
 
-.container nav>ul>li a:hover {
+.container nav > ul > li a:hover {
     font-weight: 550;
 }
 
-.container nav>ul>li::before {
+.container nav > ul > li::before {
     content: "";
     position: absolute;
     height: 2px;
     bottom: -4px;
     left: 0;
-    background-color: #ff8e06;
+    background-color: var(--brand-color);
     /* visibility: hidden; */
     width: 0px;
     transition: all 0.2s ease-in-out 0s;
 }
 
-.container nav>ul>li:hover::before,
-.container nav>ul .active::before {
+.container nav > ul > li:hover::before,
+.container nav > ul .active::before {
     width: 100%;
 }
 
@@ -121,18 +119,18 @@
 
 .container_wrapper.scrolledDown {
     /* background-color: rgba(1, 8, 33, 0.82); */
-    background-color: #F9C593;
+    background-color: #f9c593;
 }
 
 .container_wrapper.transparent {
-    background-color: #F9C593;
+    background-color: #f9c593;
 }
 
 .menu_bar {
     position: absolute;
     top: 2rem;
     right: 1.2rem;
-    color: white;
+    color: var(--brand-color);
     display: none;
 }
 
@@ -142,10 +140,10 @@
     top: 6.2rem;
     width: 100%;
     padding-right: 2rem;
-
+    background-color: var(--background-color);
 }
 
-.container nav.mobile_view_menu>ul {
+.container nav.mobile_view_menu > ul {
     flex-direction: column;
     /* background-color: rgb(36, 35, 35); */
     width: 100%;
@@ -155,7 +153,7 @@
     border-radius: 0.5rem;
 }
 
-.container nav.mobile_view_menu>ul>li svg {
+.container nav.mobile_view_menu > ul > li svg {
     display: none;
 }
 

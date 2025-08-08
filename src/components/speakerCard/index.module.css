@@ -2,7 +2,7 @@
     min-height: 425px;
     background-color: #47454585;
     border-radius: 5px;
-    border: 1px solid #6b696985;
+    /* border: 1px solid #6b696985; */
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -11,7 +11,7 @@
 
 .cardWrapper {
     width: 100%;
-    background-color: hsl(0deg 0% 42.67%);
+    background-color: hsl(0deg 0% 32.67%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,14 +111,13 @@
     align-items: center;
     justify-content: center;
     margin-top: auto;
-    padding-inline: .1rem;
-
+    padding-inline: 0.1rem;
 }
 
 .moreInfoButton {
     width: 100%;
     border: none;
-    background-color: #BE0808;
+    background-color: #be0808;
     height: 35px;
     border-radius: 5px;
     display: flex;
@@ -137,7 +136,7 @@
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    background-color: transparent;
+    background-color: var(--brand-color);
     border-radius: 0.2rem;
     padding-inline: 0.5rem;
     padding-block: 0.1rem;

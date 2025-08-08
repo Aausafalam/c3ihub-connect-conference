@@ -22,7 +22,7 @@
     font-weight: 700;
     margin-bottom: 0.5rem;
     text-align: center;
-    color: #BE0808;
+    color: #be0808;
 }
 
 .containerSubTitle {
@@ -35,7 +35,7 @@
 }
 
 .containerRegistrationButton {
-    border: 0.2px solid hsl(25, 100%, 60%);
+    border: 0.2px solid var(--brand-color);
     border-radius: 5px;
     color: white;
     cursor: pointer;
@@ -54,7 +54,7 @@
     align-items: center;
     margin-top: 2rem;
     width: 100%;
-    border: 0.2px solid hsl(25, 100%, 60%);
+    border: 0.2px solid var(--brand-color);
     border-radius: 5px;
     background: hsl(0, 0%, 8%, 0.4);
     gap: 1rem;
@@ -73,7 +73,7 @@
 .containerSearchContentHeaderTabs {
     display: flex;
     gap: 1rem;
-    border: 0.2px solid hsl(25, 100%, 60%);
+    border: 0.2px solid var(--brand-color);
     border-radius: 10px;
     padding: 0.5rem;
     padding-left: 1rem;
@@ -108,7 +108,7 @@
     padding: 0.75rem;
     justify-content: center;
     outline: none;
-    border: 0.1px solid hsl(25, 100%, 60%);
+    border: 0.1px solid var(--brand-color);
     margin-top: 2rem;
     border-radius: 0.5rem;
 }
@@ -136,7 +136,7 @@
 
 .containerSearchResult {
     padding: 1rem;
-    border: 0.1px solid hsl(25, 100%, 60%);
+    border: 0.1px solid var(--brand-color);
     max-width: 410px;
     border-radius: 0.5rem;
     display: flex;
@@ -152,7 +152,7 @@
     font-size: 1.6rem;
     font-weight: 600;
     margin-bottom: 0.9rem;
-    /* border-bottom: 1px solid hsl(25, 100%, 60%); */
+    /* border-bottom: 1px solid var(--brand-color); */
 }
 
 .resultInfo {
@@ -203,7 +203,7 @@
 .resultTopic {
     font-size: 1rem;
     font-weight: 600;
-    color: hsl(25, 100%, 60%);
+    color: var(--brand-color);
 }
 
 .highlight {
@@ -263,7 +263,7 @@
     .resultDuration {
         font-size: 1.4rem;
         border-right: none;
-        /* border-bottom: 1px solid hsl(25, 100%, 60%); */
+        /* border-bottom: 1px solid var(--brand-color); */
     }
 
     .resultInfo {
@@ -407,7 +407,7 @@
 
 .moreInfoButton {
     background: hsl(0, 21%, 6%);
-    border: 0.2px solid hsl(25, 100%, 60%);
+    border: 0.2px solid var(--brand-color);
     color: white;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;

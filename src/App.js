@@ -14,10 +14,10 @@ function App() {
             <Route element={<MainLayout />}>
                 <Route element={<Home />} path="/" />
                 <Route element={<Program />} path="/program" />
-                <Route element={<Speakers />} path="/speakers/:domain?" />
+                <Route element={<Speakers />} path="/panel-discussions/:domain?" />
                 <Route element={<RDExhibit />} path="/pavilion/:type?" />
                 <Route element={<ContactUS />} path="/contact-us" />
-                <Route element={<PannelDiscussion/>} path="/talks/:type" />
+                <Route element={<PannelDiscussion />} path="/talks/:type" />
             </Route>
         </Routes>
     );

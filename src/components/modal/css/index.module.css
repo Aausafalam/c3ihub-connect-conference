@@ -41,7 +41,7 @@ button {
 
 .modalFooterButton {
     background: hsl(0, 0%, 14%);
-    border: 0.2px solid hsl(25, 100%, 60%);
+    border: 0.2px solid var(--brand-color);
     color: white;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
