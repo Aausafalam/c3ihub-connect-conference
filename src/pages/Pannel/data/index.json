@@ -5,8 +5,8 @@
             {
                 "name": "Prof. Manindra Agrawal",
                 "title": "Director, IIT Kanpur",
-               
                 "image": "manindraAgrawal.jpg",
+                "shortdescribe": "Renowned computer scientist, globally known for contributions in ComplexityTheory and Cryptography",
                 "description": "Prof. Manindra Agrawal is a renowned computer scientist and the Director of IIT Kanpur. Internationally recognized for co-developing the AKS primality test—the first deterministic, polynomial-time algorithm for primality testing—he has made foundational contributions to theoretical computer science.A faculty member at the Department of Computer Science and Engineering, IIT Kanpur, Prof. Agrawal has also served as Deputy Director (2017–2021). His groundbreaking work has earned him numerous prestigious honors, including the Gödel Prize, Shanti Swarup Bhatnagar Award, Infosys Prize, and the Padma Shri.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/agrawalmanindra/?originalSubdomain=in"
@@ -14,8 +14,8 @@
             {
                 "name": "Shri Amit A. Shukla",
                 "title": "Joint Secretary (eG&IT), Ministry of External Affairs",
-               
                 "image": "amitShukla.jpg",
+                "shortdescribe": "Leads India’s cyber diplomacy and e-governance initiatives, shaping the country’sglobal digital agenda",
                 "description": "Shri Amit Audumbarayan Shukla is a senior officer of the Indian Foreign Service (2007 batch) currently serving as Joint Secretary (eGovernance & Information Technology) in the Ministry of External Affairs (MEA), Government of India. He leads the ministry’s initiatives in cyber diplomacy, e-governance, and the integration of emerging technologies in foreign policy.Over the course of his diplomatic career, Shri Shukla has held key positions at Indian missions in Mauritius and Brazil, and has previously overseen important portfolios such as the Northern Division (dealing with Nepal and Bhutan). His work spans multilateral engagement, regional diplomacy, and the digital transformation of India’s external affairs ecosystem.",
                 "speakerType": "Panelist",
                 "linkdinLink": ""
@@ -24,15 +24,16 @@
                 "name": "Dr. Gulshan Rai",
                 "title": "Ex-NCSC Ex-DG",
                 "image": "Gulshan rai.jpg",
-                
+                "shortdescribe": "Key architect of India’s cybersecurity framework - country’s first National Cyber Security Coordinator at the Prime Minister’s Office",
                 "description": "Dr. Gulshan Rai is a key architect of India’s cybersecurity framework, having served as the country’s first National Cyber Security Coordinator at the Prime Minister’s Office. Earlier, he led CERT-In as Director General, where he strengthened national cyber incident response capabilities. With decades of experience in cybersecurity, e-governance, and IT law, Dr. Rai played a pivotal role in shaping India's Information Technology Act and national cybersecurity policies. He is widely recognized for his strategic leadership, both in national policymaking and on international platforms.",
                 "speakerType": "Panelist",
                 "linkdinLink": ""
             },
             {
                 "name": "Col. Ashwini Bhardwaj",
-                "title": "Senior Director",
+                "title": "OSD, Ministry of External Affairs",
                 "image": "Ashwini.jpeg",
+                "shortdescribe": "Over 25 years of experience in government service with specialization in ICT,cybersecurity, and public policy, particularly in defence and foreign affairs",
                 "description": "With over 25 years of experience in government service, I specialize in ICT, cybersecurity, and public policy—particularly in the domains of defence and foreign affairs. My background in software engineering and data science has enabled me to lead key national projects focused on secure communications, cloud and information security, and AI/ML integration.I have played a pivotal role in strengthening the country’s digital infrastructure, driving innovations in cybersecurity, and shaping technology policies to support national security. My work combines strategic leadership with deep technical expertise to deliver resilient, future-ready solutions for India’s critical IT and telecommunications frameworks.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/ashwini590/"
@@ -46,6 +47,7 @@
                 "name": "Lekshmi Nair",
                 "title": "Global Security Leader",
                 "image": "lekshmiNair.jpg",
+                "shortdescribe": "Senior Cybersecurity leader with over 22 years of rich experience in Information Security Consulting and Cybersecurity Strategy",
                 "description": "Lekshmi Nair is the Global Capability Head of Application and Offensive Security at NTT Data Inc., leading strategic capability development for clients worldwide. With 23+ years of experience in information security consulting and program management, she holds CISA, CISM, and ISO 27001 Lead Auditor certifications. Recognized as one of the Top 20 Women Influencers in Security in India and a CF100 Cyber Influencer Titan, Lekshmi specializes in cyber risk management, penetration testing, threat modeling, DevSecOps, and cloud security. She is also the Founding Member and President of WiCyS India and a strong voice for diversity and inclusion in cybersecurity. As a leadership coach, speaker, and mentor, she is passionate about empowering talent and bridging the cybersecurity skill gap.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/lekshmi-nair-1299548/?originalSubdomain=in"
@@ -54,6 +56,7 @@
                 "name": "Sadhna Singh",
                 "title": "Policy Consultant",
                 "image": "sadhnaSingh.jpg",
+                "shortdescribe": "Former Indian Army Officer with over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity, and stakeholder engagement.",
                 "description": "Sadhna Singh is a Consultant at NITI Aayog, bringing over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity, and stakeholder engagement. Her work focuses on driving impactful policy initiatives aligned with India's development goals, particularly in the domains of ICT, national security, and governance. A former officer in the Indian Army’s Corps of Signals, Sadhna brings mission-driven discipline and deep expertise in network administration and secure communications. Her combined military and policy experience enables her to navigate complex challenges with strategic foresight and deliver actionable, system-level solutions. She is passionate about fostering collaboration, driving innovation, and contributing to inclusive and resilient national growth.",
                 "speakerType": "Panelist",
                 "linkdinLink": "http://www.linkedin.com/in/sadhna-singh-a4776b1b8/"
@@ -62,6 +65,7 @@
                 "name": "Vijayant Gaur",
                 "title": "Director General, CSAI ",
                 "image": "vijayantGaur.jpg",
+                "shortdescribe": "Over two decades of experience in cyber risk management, data protection, AI-ML, blockchain",
                 "description": "Vijayant Gaur is a senior cybersecurity leader with extensive experience in managing cyber operations across critical government sectors. Currently serving as Director General at CSAI, he specializes in cybersecurity, AI, blockchain, digital payments, and quantum technologies. He previously led Cyber Security Operations at the National Health Authority (NHA) and UPPCL, driving key initiatives in public sector cyber resilience and infrastructure security.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/vijayant-gaur-12417823/"
@@ -70,6 +74,7 @@
                 "name": "Mini Gupta",
                 "title": "Partner – Cybersecurity",
                 "image": "Mini.jpg",
+                "shortdescribe": "Over 20 years of expertise in risk management, trusted advisor to clients across Technology, telecom, M&amp;E and BFSI",
                 "description": "With over 20 years of expertise in risk management, Mini Gupta is a trusted advisor to clients across TMT, Manufacturing, Media, and Financial Services. As a Technology Consulting Partner at EY India, she leads large-scale cyber transformations and provides strategic consulting in cybersecurity, data privacy, and technology risk. Mini is known for building high-impact delivery capabilities by leveraging intellectual property, global alliances, and Centres of Excellence. Her core strengths include cyber strategy, GRC implementation, data privacy services, IT risk management, and CISO advisory.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/mini-gupta-8942021/"
@@ -83,6 +88,7 @@
                 "name": "Abhishek Kakkar",
                 "title": "Vice President",
                 "image": "abhishekKakkar.jpg",
+                "shortdescribe": "",
                 "description": "Abhishek Kakkar is an early-stage venture investor with a strong blend of operational and investment experience. Currently serving as Vice President at IAN Group, he scouts and supports startups across DeepTech, HealthTech, ClimateTech, Life Sciences, Enterprise Software, and Consumer Innovation. Previously, he built supply ecosystems at Magicpin and led investments at Arka Venture Labs and 91springboard. Passionate about enabling frontier innovation, Abhishek actively contributes to India’s startup ecosystem through mentorship and collaboration with incubators and institutional investors.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/kakkarabhishek/"
@@ -91,15 +97,16 @@
                 "name": "Vibhore Sharma",
                 "title": "Science & Technology Venture Investor",
                 "image": "vibhoreSharma.jpg",
+                "shortdescribe": "",
                 "description": "Vibhore Sharma is a seasoned deep-tech investor with over 18 years of experience in the internet and technology sector. As a creative technology leader turned venture investor, he focuses on identifying and nurturing science-backed innovations solving large-scale problems with long-term impact. Previously, he played a pivotal role in building and scaling the technology and product backbone at Info Edge, one of India’s earliest and most successful internet companies. At Capital2B and RedStart Labs, Vibhore actively partners with founders building transformative technologies for the future.",
                 "speakerType": "Panelist",
-
                 "linkdinLink": "https://www.linkedin.com/in/vibhoresharma/"
             },
             {
                 "name": "Ajay Modi",
                 "title": "Investment Director",
                 "image": "ajayModi.png",
+                "shortdescribe": "",
                 "description": "Ajay Modi is an experienced investment professional leading both private and public market strategies at Piper Serica. He played a pivotal role in raising a $30M early-stage VC fund and oversees the entire investment lifecycle—from deal sourcing and due diligence to closure and portfolio management. At Piper Serica, Ajay also drives the firm's public market investment strategies and plays a key role in steering the organization’s long-term growth. His hands-on approach and strategic insights make him a core pillar of the firm’s success.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/ajmodi/?originalSubdomain=in"
@@ -108,6 +115,7 @@
                 "name": "Bheem Reddy",
                 "title": "Leadership Mentor",
                 "image": "Bheem.jpg",
+                "shortdescribe": "Over 20 years in the Indian Navy with deep passion towards teaching and skill enhancement, specifically in cyber space",
                 "description": "A veteran with 22+ years in the Indian Navy, Bheem Reddy brings a mission-driven approach to cybersecurity and digital transformation. He is passionate about building future-ready cyber professionals by focusing on skill development, leadership, and real-world preparedness. With a deep-rooted interest in defence technologies and mentoring, Bheem is committed to strengthening India's cybersecurity posture through entrepreneurship, training, and strategic thinking.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/bheem-reddy/"
@@ -121,6 +129,7 @@
                 "name": "Amitava Mukherjee",
                 "title": "Director",
                 "image": "Amitava.jpg",
+                "shortdescribe": "Over 30 years of experience in IT and cybersecurity governance, strategies,operations &amp; audits",
                 "description": "Amitava Mukherjee is a seasoned cybersecurity leader with over 30 years of experience in IT and cybersecurity governance. As Director of Cybersecurity at Siemens, he drives strategic initiatives in cyber risk management, operations, audits, and leadership engagement. Known for his cross-functional expertise, he is also a strong advocate of cybersecurity awareness, collaboration, and mentorship across industries.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/mukherjeeamitava/?originalSubdomain=in"
@@ -129,23 +138,34 @@
                 "name": "Prof. Somitra Sanadhya",
                 "title": "Professor",
                 "image": "soumitra.jpg",
+                "shortdescribe": "Expert in Cryptology and Security, with key research focuses on QuantumComputation and Blockchains, including cryptocurrencies",
                 "description": "Prof. Somitra Sanadhya is a leading expert in cryptography and cybersecurity, currently teaching at IIT Kanpur. With over two decades of experience, his research spans post-quantum cryptography, blockchain security, and side-channel attacks. He previously served as Dean and CISO at IIT Jodhpur and has played key roles in major national cybersecurity initiatives.",
                 "speakerType": "Panelist",
-
                 "linkdinLink": "https://www.linkedin.com/in/somitra-sanadhya-4556a41/?originalSubdomain=in"
             },
             {
                 "name": "Dr. Bharat Panchal",
                 "title": "Architect of India’s Risk Management & Cybersecurity Framework for Digital Payments",
                 "image": "bharat.jpeg",
+                "shortdescribe": "Known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, andnational platforms like cybercrime.gov.in and the 1930 helpline",
                 "description": "A leading force in India’s cybersecurity and risk management landscape, known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in and the 1930 helpline. Played a pivotal role in shaping the country’s digital payment security while building high-performing risk teams at NPCI.Advises key government bodies including MEITY, CERT-IN, RBI, and IDRBT, and works closely with global networks like VISA, MasterCard, SWIFT, and World Bank. A globally recognized speaker, featured in 250+ Indian and 25+ international conferences across 40+ countries. Now driving the vision behind Bima Sugam, India’s unified digital insurance platform.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/bharatpanchal/"
             },
             {
+                "name": "Venkatasubramanian Ramakrishnan",
+                "title": "Head – Global Cyber Security Consulting, L&T Technology Services",
+                "image": "VR.jfif",
+                "shortdescribe": "Over 20 years of experience in strategy, risk management, and technology solutions",
+                "description": "Cybersecurity leader with 20+ years of experience in strategy, risk management, and technology solutions for global enterprises, defence, and government. Leads global cybersecurity business strategy at L&T Technology Services, with expertise in SOC, IoT & OT Security, Automotive Security, Product Security, Cyber Risk Management, and Cloud. A keynote speaker on AI/ML, cyber risk quantification, and industrial security, he has contributed to Global CISO Leadership Programmes, IIT Kanpur C3iHub mentorship, and the book Risk Assessment and Decision Analysis using Bayesian Networks.",
+                "speakerType": "Panelist",
+                "linkdinLink": "https://www.linkedin.com/in/venkatasubramanian-ramakrishnan-5544b9/?originalSubdomain=in"
+            },
+            {
                 "name": "Ranjeet Mishra",
                 "title": "Strategy Leader",
                 "image": "ranjeet.jpg",
+                "shortdescribe": "Technology business professional with over 24 years expertise in cybersecurity,deep-tech startup ecosystem, business development, also cyber range instructor",
                 "description": "Ranjeet Mishra is a seasoned technology and strategy leader with over 24 years of global experience across North America, APAC, and the Middle East. He specializes in go-to-market strategy, international business development, and scaling deep-tech startups in IT, telecom, and cybersecurity. With deep expertise in cybersecurity policy, governance, and risk frameworks, Ranjeet has worked extensively in areas such as IoT security, deception technologies, threat intelligence, and SoC management. He is also actively involved in cybercrime investigation frameworks, Cyberrange training, and startup incubation.A trusted advisor and technical mentor, Ranjeet is passionate about driving innovation, digital transformation, and building resilient cybersecurity ecosystems.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/ranjeet-mishra-0a687916/"
