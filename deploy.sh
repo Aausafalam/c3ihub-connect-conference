@@ -36,7 +36,7 @@ sudo -v
 chmod 600 /home/user/.ssh/C3iHub-Discourse-AWS-Mumbai.pem
 
 # Transfer the zip file to the server
-scp -i /home/user/.ssh/C3iHub-Discourse-AWS-Mumbai.pem -r dist.zip root@c3ihub.org:/var/$target/c3ihub-conference/frontend/dist.zip
+scp -i /home/user/.ssh/C3iHub-Discourse-AWS-Mumbai.pem -r dist.zip root@c3ihub.org:/var/$target/c3ihub-connect-conference/frontend/dist.zip
 
 if [ $? -ne 0 ]; then
     echo "Failed to transfer dist.zip to the server"
@@ -46,7 +46,7 @@ fi
 
 # SSH into the server and handle the deployment
 ssh -i /home/user/.ssh/C3iHub-Discourse-AWS-Mumbai.pem root@c3ihub.org -t "
-    cd /var/$target/c3ihub-conference/frontend &&
+    cd /var/$target/c3ihub-connect-conference/frontend &&
     unzip -o dist.zip &&
     rm -rf dist.zip &&
     # Set ownership and permissions
