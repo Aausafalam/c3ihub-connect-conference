@@ -26,7 +26,7 @@ const Home = () => {
                     <div className={styles.banner_header}>
                         <div className={styles.banner_header_left}>
                             <div className={styles.sideimage_logo}>
-                                <img className={styles.event_image_logo} src={`${process.env.REACT_APP_BASE_PATH}home/logo/clubbed logo.png`} alt="Event" />
+                                <img className={styles.event_image_logo} src={`${process.env.REACT_APP_BASE_PATH}home/logo/logo.png`} alt="Event" />
                             </div>
                             <h1 className={styles.slogan}>
                                 Where Ideas Spark <strong>Possibilities</strong>
