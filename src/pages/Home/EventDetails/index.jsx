@@ -7,7 +7,7 @@ const EventDetails = () => {
             <div className={styles.container}>
                 <div className={styles.left_container}>
                     <div className={styles.body}>
-                        <img className={styles.logo} src={`${process.env.REACT_APP_BASE_PATH}home/logo/clubbed logo.png`} alt="Event" />
+                        <img className={styles.logo} src={`${process.env.REACT_APP_BASE_PATH}home/logo/logo.png`} alt="Event" />
 
                         <div className={styles.infoBlock}>
                             <h2 className={styles.heading}>
