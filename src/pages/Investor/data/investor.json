@@ -1,54 +1,61 @@
 [
-    {
-        "name": "Supply Chain Security",
-        "data": [
-            {
-                "name": "Abhishek Kakkar",
-                "title": "Vice President",
-                "image": "abhishekKakkar.jpg",
-                "affiliation": "India Angel Network (IAN) Group",
-                "description": "Abhishek Kakkar is an early-stage venture investor with a strong blend of operational and investment experience. Currently serving as Vice President at IAN Group, he scouts and supports startups across DeepTech, HealthTech, ClimateTech, Life Sciences, Enterprise Software, and Consumer Innovation. Previously, he built supply ecosystems at Magicpin and led investments at Arka Venture Labs and 91springboard. Passionate about enabling frontier innovation, Abhishek actively contributes to India’s startup ecosystem through mentorship and collaboration with incubators and institutional investors.",
-                "linkdinLink": "https://www.linkedin.com/in/kakkarabhishek/"
-            },
-            {
-                "name": "Vibhore Sharma",
-                "title": "Science & Technology Venture Investor",
-                "image": "vibhoreSharma.jpg",
-                "affiliation": "RedStart Labs",
-                "description": "Vibhore Sharma is a seasoned deep-tech investor with over 18 years of experience in the internet and technology sector. As a creative technology leader turned venture investor, he focuses on identifying and nurturing science-backed innovations solving large-scale problems with long-term impact. Previously, he played a pivotal role in building and scaling the technology and product backbone at Info Edge, one of India’s earliest and most successful internet companies. At Capital2B and RedStart Labs, Vibhore actively partners with founders building transformative technologies for the future.",
-                "linkdinLink": "https://www.linkedin.com/in/vibhoresharma/"
-            },
-            {
-                "name": "Ajay Modi",
-                "title": "Investment Director",
-                "image": "ajayModi.png",
-                "affiliation": "Piper Serica",
-                "description": "Ajay Modi is an experienced investment professional leading both private and public market strategies at Piper Serica. He played a pivotal role in raising a $30M early-stage VC fund and oversees the entire investment lifecycle—from deal sourcing and due diligence to closure and portfolio management. At Piper Serica, Ajay also drives the firm's public market investment strategies and plays a key role in steering the organization’s long-term growth. His hands-on approach and strategic insights make him a core pillar of the firm’s success.",
-                "linkdinLink": "https://www.linkedin.com/in/ajmodi/?originalSubdomain=in"
-            },
-            {
-                "name": "Cdr Navneet Kaushik",
-                "title": "Founder",
-                "image": "Navneet.jpg",
-                "affiliation": "Jamwant Ventures Angel Fund",
-                "description": "Cdr Navneet Kaushik is the founder of Jamwant Ventures, an angel fund that supports early-stage startups. He served in the Indian Navy, where he gained strong leadership and operational experience. After his service, he worked with the Technology Development Board (TDB) under the Department of Science and Technology (DST), Government of India, where he supported innovation and tech-based ventures. He holds degrees from both the National Defence Academy (NDA) and IIT Kharagpur, giving him a unique mix of military discipline and technical expertise. Cdr Kaushik is now focused on helping Indian startups grow through funding, mentorship, and strategy.",
-                "linkdinLink": "https://www.linkedin.com/in/cdr-navneet-kaushik/"
-            },
-            {
-                "name": "Rohit Bafna",
-                "title": "Founder",
-                "image": "Rohit.jpg",
-                "affiliation": "888vc & GRO8",
-                "description": "Rohit is the founder and CEO of 888vc, a company that invests in startups, especially those working in AI and climate technology. His company has invested in over 20 startups like BunissonBot, Datazip, and Goat Brand Labs. He has over 8 years of experience in the startup investment world and has helped bring in money for over 100 startups, including big names like Zypp Electric and PeeSafe.He worked at well-known VC firms like Mumbai Angels, Venture Catalysts, and 9Unicorns VC, where he learned to spot high-potential startups.Rohit has a Master’s degree in Global Finance from Fordham University in New York and studied for his bachelor’s in Pune. He splits his time between Bangalore and Dubai. Rohit connects people and resources from different parts of the world to build startups that solve big problems.",
-                "linkdinLink": "https://www.linkedin.com/in/cdr-navneet-kaushik/"
-            },
-            {
-                "name": "Debraj Banerjee",
-                "title": "Venture, PE & Corporate Leader",
-                "image": "Debraj Banerjee.jpg",
-                "affiliation": "Ex-Partner, SIDBI Ventures",
-                "description": "Debraj Banerjee is a seasoned investment and business leader with 17 years of global experience deploying $900M+ across venture capital, private equity, M&A and corporate transformations while directly managing operations at scale.Currently, he leads an investment advisory and strategy platform that accelerates cross-border technology commercialization, connecting innovation hubs across the Indo-Japan-US corridor through strategic partnerships with global family offices, institutional funds, and corporate investors.During his tenure as Senior Fund Manager at SIDBI Venture Capital - India's sovereign venture capital arm - he built and managed a $100M+ portfolio targeting foundational technologies including AI and quantum computing, with applications spanning bio/medtech, advanced manufacturing, and industrial transformation. His operational expertise includes executing complex M&A transactions and spearheading billion-dollar turnarounds across Industrial, Climate Tech, and Financial Services sectors.An alumnus of IIM Bangalore and IE Business School, Debraj brings a rare combination of institutional investment acumen and hands-on execution experience, having successfully navigated innovation ecosystems from APAC to global markets","linkdinLink": "https://www.linkedin.com/in/banerjeedebraj/"
-            }
-        ]
-    }
+  {
+    "name": "Supply Chain Security",
+    "data": [
+      {
+        "name": "Abhishek Kakkar",
+        "title": "Vice President",
+        "image": "abhishekKakkar.jpg",
+        "affiliation": "India Angel Network (IAN) Group",
+        "shortdescribe": "",
+        "description": "Abhishek Kakkar is an early-stage venture investor with a strong blend of operational and investment experience. Currently serving as Vice President at IAN Group, he scouts and supports startups across DeepTech, HealthTech, ClimateTech, Life Sciences, Enterprise Software, and Consumer Innovation. Previously, he built supply ecosystems at Magicpin and led investments at Arka Venture Labs and 91springboard. Passionate about enabling frontier innovation, Abhishek actively contributes to India’s startup ecosystem through mentorship and collaboration with incubators and institutional investors.",
+        "linkdinLink": "https://www.linkedin.com/in/kakkarabhishek/"
+      },
+      {
+        "name": "Vibhore Sharma",
+        "title": "Science & Technology Venture Investor",
+        "image": "vibhoreSharma.jpg",
+        "affiliation": "RedStart Labs",
+        "shortdescribe": "",
+        "description": "Vibhore Sharma is a seasoned deep-tech investor with over 18 years of experience in the internet and technology sector. As a creative technology leader turned venture investor, he focuses on identifying and nurturing science-backed innovations solving large-scale problems with long-term impact. Previously, he played a pivotal role in building and scaling the technology and product backbone at Info Edge, one of India’s earliest and most successful internet companies. At Capital2B and RedStart Labs, Vibhore actively partners with founders building transformative technologies for the future.",
+        "linkdinLink": "https://www.linkedin.com/in/vibhoresharma/"
+      },
+      {
+        "name": "Ajay Modi",
+        "title": "Investment Director",
+        "image": "ajayModi.png",
+        "affiliation": "Piper Serica",
+        "shortdescribe": "",
+        "description": "Ajay Modi is an experienced investment professional leading both private and public market strategies at Piper Serica. He played a pivotal role in raising a $30M early-stage VC fund and oversees the entire investment lifecycle—from deal sourcing and due diligence to closure and portfolio management. At Piper Serica, Ajay also drives the firm's public market investment strategies and plays a key role in steering the organization’s long-term growth. His hands-on approach and strategic insights make him a core pillar of the firm’s success.",
+        "linkdinLink": "https://www.linkedin.com/in/ajmodi/?originalSubdomain=in"
+      },
+      {
+        "name": "Cdr Navneet Kaushik",
+        "title": "Founder",
+        "image": "Navneet.jpg",
+        "affiliation": "Jamwant Ventures Angel Fund",
+        "shortdescribe": "Cdr Navneet Kaushik is the founder of Jamwant Ventures, an angel fund that supports early-stage startups.",
+        "description": "Cdr Navneet Kaushik is the founder of Jamwant Ventures, an angel fund that supports early-stage startups. He served in the Indian Navy, where he gained strong leadership and operational experience. After his service, he worked with the Technology Development Board (TDB) under the Department of Science and Technology (DST), Government of India, where he supported innovation and tech-based ventures. He holds degrees from both the National Defence Academy (NDA) and IIT Kharagpur, giving him a unique mix of military discipline and technical expertise. Cdr Kaushik is now focused on helping Indian startups grow through funding, mentorship, and strategy.",
+        "linkdinLink": "https://www.linkedin.com/in/cdr-navneet-kaushik/"
+      },
+      {
+        "name": "Rohit Bafna",
+        "title": "Founder",
+        "image": "Rohit.jpg",
+        "affiliation": "888vc & GRO8",
+        "shortdescribe": "Rohit is the founder and CEO of 888vc, a company that invests in startups, especially those working in AI and climate technology.",
+        "description": "Rohit is the founder and CEO of 888vc, a company that invests in startups, especially those working in AI and climate technology. His company has invested in over 20 startups like BunissonBot, Datazip, and Goat Brand Labs. He has over 8 years of experience in the startup investment world and has helped bring in money for over 100 startups, including big names like Zypp Electric and PeeSafe.He worked at well-known VC firms like Mumbai Angels, Venture Catalysts, and 9Unicorns VC, where he learned to spot high-potential startups.Rohit has a Master’s degree in Global Finance from Fordham University in New York and studied for his bachelor’s in Pune. He splits his time between Bangalore and Dubai. Rohit connects people and resources from different parts of the world to build startups that solve big problems.",
+        "linkdinLink": "https://www.linkedin.com/in/cdr-navneet-kaushik/"
+      },
+      {
+        "name": "Debraj Banerjee",
+        "title": "Venture, PE & Corporate Leader",
+        "image": "Debraj Banerjee.jpg",
+        "affiliation": "Ex-Partner, SIDBI Ventures",
+        "shortdescribe": "Debraj Banerjee is a seasoned investment and business leader with 17 years of global experience deploying $900M+ across venture capital, private equity, M&A and corporate transformations while directly managing operations at scale.",
+        "description": "Debraj Banerjee is a seasoned investment and business leader with 17 years of global experience deploying $900M+ across venture capital, private equity, M&A and corporate transformations while directly managing operations at scale.Currently, he leads an investment advisory and strategy platform that accelerates cross-border technology commercialization, connecting innovation hubs across the Indo-Japan-US corridor through strategic partnerships with global family offices, institutional funds, and corporate investors.During his tenure as Senior Fund Manager at SIDBI Venture Capital - India's sovereign venture capital arm - he built and managed a $100M+ portfolio targeting foundational technologies including AI and quantum computing, with applications spanning bio/medtech, advanced manufacturing, and industrial transformation. His operational expertise includes executing complex M&A transactions and spearheading billion-dollar turnarounds across Industrial, Climate Tech, and Financial Services sectors.An alumnus of IIM Bangalore and IE Business School, Debraj brings a rare combination of institutional investment acumen and hands-on execution experience, having successfully navigated innovation ecosystems from APAC to global markets",
+        "linkdinLink": "https://www.linkedin.com/in/banerjeedebraj/"
+      }
+    ]
+  }
 ]
