@@ -19,8 +19,8 @@ const SpeakerCard = ({ program, seModalData, setModelModelOpen, keyValue }) => {
                         )}
                     </h3>
                     <h4 className={Styles.title}>{program.title}</h4>
-                    <p title={program?.description} className={Styles.details}>
-                        {program?.description}
+                    <p title={program?.shortdescribe} className={Styles.details}>
+                        {program?.shortdescribe}
                     </p>
                 </div>
 
