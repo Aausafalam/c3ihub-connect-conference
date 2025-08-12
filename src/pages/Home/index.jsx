@@ -6,10 +6,8 @@ import SupportedBy from "./SupportedBy";
 import { useEffect, useState } from "react";
 
 const images = [
-  `${process.env.REACT_APP_BASE_PATH}home/logo/12.png`,
-  `${process.env.REACT_APP_BASE_PATH}home/logo/13.png`,
-  `${process.env.REACT_APP_BASE_PATH}home/logo/14.png`,
-  `${process.env.REACT_APP_BASE_PATH}home/logo/16.png`,
+  `${process.env.REACT_APP_BASE_PATH}home/logo/banner.jpeg`,
+ 
 
 
 
