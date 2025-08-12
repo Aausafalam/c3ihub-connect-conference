@@ -370,7 +370,7 @@ export const initialProgramSchedule = [
         id: 7,
         day: "21st August 2025",
         time: "06:00 PM – 06:45 PM",
-        event: ["Panel 4:Evolving Startup Ecosystem: Today's Landscape & Way Forward"],
+        event: ["Panel 4: Evolving Startup Ecosystem: Today's Landscape & Way Forward"],
         theme: "Cybersecurity",
         venue: "Main Hall",
     },

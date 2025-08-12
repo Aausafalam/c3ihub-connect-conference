@@ -22,7 +22,7 @@
             },
             {
                 "name": "Dr. Gulshan Rai",
-                "title": "Ex-NCSC Ex-DG",
+                "title": "Ex-NCSC Ex-DG CERT-In",
                 "image": "Gulshan rai.jpg",
                 "shortdescribe": "Key architect of India’s cybersecurity framework - country’s first National Cyber Security Coordinator at the Prime Minister’s Office",
                 "description": "Dr. Gulshan Rai is a key architect of India’s cybersecurity framework, having served as the country’s first National Cyber Security Coordinator at the Prime Minister’s Office. Earlier, he led CERT-In as Director General, where he strengthened national cyber incident response capabilities. With decades of experience in cybersecurity, e-governance, and IT law, Dr. Rai played a pivotal role in shaping India's Information Technology Act and national cybersecurity policies. He is widely recognized for his strategic leadership, both in national policymaking and on international platforms.",
@@ -72,7 +72,7 @@
             },
             {
                 "name": "Mini Gupta",
-                "title": "Partner – Cybersecurity",
+                "title": "Partner – Cybersecurity, Data Privacy & GRC Technology, EY India ",
                 "image": "Mini.jpg",
                 "shortdescribe": "Over 20 years of expertise in risk management, trusted advisor to clients across Technology, telecom, M&amp;E and BFSI",
                 "description": "With over 20 years of expertise in risk management, Mini Gupta is a trusted advisor to clients across TMT, Manufacturing, Media, and Financial Services. As a Technology Consulting Partner at EY India, she leads large-scale cyber transformations and provides strategic consulting in cybersecurity, data privacy, and technology risk. Mini is known for building high-impact delivery capabilities by leveraging intellectual property, global alliances, and Centres of Excellence. Her core strengths include cyber strategy, GRC implementation, data privacy services, IT risk management, and CISO advisory.",
@@ -112,8 +112,8 @@
                 "linkdinLink": "https://www.linkedin.com/in/ajmodi/?originalSubdomain=in"
             },
             {
-                "name": "Bheem Reddy",
-                "title": "Leadership Mentor",
+                "name": "Cdr Bheem Reddy",
+                "title": "VP Cybersecurity and Compliance, C3iHub",
                 "image": "Bheem.jpg",
                 "shortdescribe": "Over 20 years in the Indian Navy with deep passion towards teaching and skill enhancement, specifically in cyber space",
                 "description": "A veteran with 22+ years in the Indian Navy, Bheem Reddy brings a mission-driven approach to cybersecurity and digital transformation. He is passionate about building future-ready cyber professionals by focusing on skill development, leadership, and real-world preparedness. With a deep-rooted interest in defence technologies and mentoring, Bheem is committed to strengthening India's cybersecurity posture through entrepreneurship, training, and strategic thinking.",
@@ -127,7 +127,7 @@
         "data": [
             {
                 "name": "Amitava Mukherjee",
-                "title": "Director",
+                "title": "Director – Cybersecurity, Siemens",
                 "image": "Amitava.jpg",
                 "shortdescribe": "Over 30 years of experience in IT and cybersecurity governance, strategies,operations &amp; audits",
                 "description": "Amitava Mukherjee is a seasoned cybersecurity leader with over 30 years of experience in IT and cybersecurity governance. As Director of Cybersecurity at Siemens, he drives strategic initiatives in cyber risk management, operations, audits, and leadership engagement. Known for his cross-functional expertise, he is also a strong advocate of cybersecurity awareness, collaboration, and mentorship across industries.",
@@ -136,7 +136,7 @@
             },
             {
                 "name": "Prof. Somitra Sanadhya",
-                "title": "Professor",
+                "title": "Professor,  IIT Kanpur",
                 "image": "soumitra.jpg",
                 "shortdescribe": "Expert in Cryptology and Security, with key research focuses on QuantumComputation and Blockchains, including cryptocurrencies",
                 "description": "Prof. Somitra Sanadhya is a leading expert in cryptography and cybersecurity, currently teaching at IIT Kanpur. With over two decades of experience, his research spans post-quantum cryptography, blockchain security, and side-channel attacks. He previously served as Dean and CISO at IIT Jodhpur and has played key roles in major national cybersecurity initiatives.",
@@ -145,7 +145,7 @@
             },
             {
                 "name": "Dr. Bharat Panchal",
-                "title": "Architect of India’s Risk Management & Cybersecurity Framework for Digital Payments",
+                "title": "Cybersecurity Architect",
                 "image": "bharat.jpeg",
                 "shortdescribe": "Known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, andnational platforms like cybercrime.gov.in and the 1930 helpline",
                 "description": "A leading force in India’s cybersecurity and risk management landscape, known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in and the 1930 helpline. Played a pivotal role in shaping the country’s digital payment security while building high-performing risk teams at NPCI.Advises key government bodies including MEITY, CERT-IN, RBI, and IDRBT, and works closely with global networks like VISA, MasterCard, SWIFT, and World Bank. A globally recognized speaker, featured in 250+ Indian and 25+ international conferences across 40+ countries. Now driving the vision behind Bima Sugam, India’s unified digital insurance platform.",

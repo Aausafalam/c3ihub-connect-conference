@@ -49,7 +49,9 @@ const RDExhibit = () => {
         cybersecurity. Join us for Live Demonstrations, Product Launch, and
         Pitching Session that redefine digital safety
       </div>
-      <button onClick={toggleVideoPopup} className={styles.playBtn}></button>
+      <button className={styles.playBtn}></button>
+      {/* <button onClick={toggleVideoPopup} className={styles.playBtn}></button> */}
+
 
       <div className={styles.tab}>
         <p onClick={() => setTab(1)} className={tab === 1 && styles.active}>
