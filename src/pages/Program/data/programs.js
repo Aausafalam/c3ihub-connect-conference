@@ -325,8 +325,19 @@ export const initialProgramSchedule = [
         theme: "Cybersecurity",
         venue: "Main Hall",
     },
-    {
+        {
         id: 3,
+        day: "21st August 2025",
+        time: "10:45AM – 11:00 AM",
+        event: [
+            "Inauguration of Exhibition Stall",
+            // "R&D and Start-up Demonstration Stalls"
+        ],
+        theme: "Cybersecurity",
+        venue: "Main Hall",
+    },
+    {
+        id: 4,
         day: "21st August 2025",
         time: "11:00AM – 11:45 AM",
         event: ["Panel 1: Mission Rakshak – Cybersecurity for Bharat Defence"],
@@ -334,7 +345,7 @@ export const initialProgramSchedule = [
         venue: "Main Hall",
     },
     {
-        id: 4,
+        id: 5,
         day: "21st August 2025",
         time: "11:45 AM – 12:30 PM",
         event: ["Panel 2: Unlocking Synergies for Greater Impact"],
@@ -342,7 +353,7 @@ export const initialProgramSchedule = [
         venue: "Main Hall",
     },
         {
-        id: 5,
+        id: 6,
         day: "21st August 2025",
         time: "12:30 PM – 01:15 PM",
         event: ["Panel 3: Roadblocks to Runways – Navigating Challenges"],
@@ -351,32 +362,32 @@ export const initialProgramSchedule = [
     },
     
         {
-        id: 6,
-        day: "21st August 2025",
-        time: "02:30 PM – 04:00 PM",
-        event: ["Hub & Startup Stalls Walkthrough"],
-        theme: "Cybersecurity",
-        venue: "Main Hall",
-    },
-        {
-        id: 6,
-        day: "21st August 2025",
-        time: "04:00 PM – 06:00 PM",
-        event: ["Product Launch"],
-        theme: "Cybersecurity",
-        venue: "Main Hall",
-    },
-        {
         id: 7,
         day: "21st August 2025",
-        time: "06:00 PM – 06:45 PM",
+        time: "02:30 PM – 04:00 PM",
+        event: ["Hubs and Startup Stall Walkthrough"],
+        theme: "Cybersecurity",
+        venue: "Main Hall",
+    },
+        {
+        id: 8,
+        day: "21st August 2025",
+        time: "04:00 PM – 05:30 PM",
+        event: ["Startup Product Launch"],
+        theme: "Cybersecurity",
+        venue: "Main Hall",
+    },
+        {
+        id: 9,
+        day: "21st August 2025",
+        time: "05:45 PM – 06:30 PM",
         event: ["Panel 4: Evolving Startup Ecosystem: Today's Landscape & Way Forward"],
         theme: "Cybersecurity",
         venue: "Main Hall",
     },
     ,
         {
-        id: 8,
+        id: 10,
         day: "22nd August 2025",
         time: "10:30 AM – 01:00 PM",
         event: ["Startup Pitch Session"],
