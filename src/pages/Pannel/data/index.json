@@ -28,10 +28,20 @@
                 "speakerType": "Panelist",
                 "linkdinLink": ""
             },
+             {
+                "name": "Dr. Gaurav Gupta",
+                "title": "Scientist F , MIETY , Govt of India",
+                "image": "gaurav.jpeg",
+                "shortdescribe": "Dr. Gaurav Gupta, India’s first doctorate in Digital Forensics, is a national leader in cyber security, law, and policy",
+                "description": "Dr Gaurav Gupta is the first Indian to earn a doctorate in the field of digital forensics. He was bestowed with the Young Scientist Award of the Indian Science Congress in 2010 by the Man of Science, Dr A.P.J. Abdul Kalam. He has been a mentor and guide to many research students and interns and with rich experience of 24 years of experience. He is currently Scientist 'F'/Director with Cyber Security Group of Ministry of Electronics and Information Technology, Government of India. He is also the author of bestseller  book Cyber Unsafe available on amazon.",
+                "speakerType": "Panelist",
+                "linkdinLink": "https://www.linkedin.com/in/gauravggupta/?originalSubdomain=in"
+            },
             {
                 "name": "Col. Ashwini Bhardwaj",
                 "title": "OSD, Ministry of External Affairs",
                 "image": "Ashwini.jpeg",
+                 "speakerType": "Moderator",
                 "shortdescribe": "Over 25 years of experience in government service with specialization in ICT, cybersecurity, and public policy",
                 "description": "Colonel Ashwini Bhardwaj, both a soldier and a scholar, is an alumnus of Indian Military Academy, Dehradun.  He was commissioned into the Corps of Signals during the peak of Kargil War in 1999.  He began his career under the blazing guns by supporting combat communications and undertaking electronic warfare operations during Operation Vijay and later as member of army’s elite counter-insurgency force in Kashmir Valley.Today, as Officer on Special Duty at the Ministry of External Affairs, he contributes by safeguarding India’s digital sovereignty by ensuring security of critical ICT infrastructure while shaping future-ready policies.His technical expertise extends beyond the battlefield. An IIT Kharagpur postgraduate in communications with advanced credentials in cybersecurity, AI/ML, electronic warfare and defense diplomacy, he has been involved in planning and engineering of strategic defence networks  and obsolescence-proof SATCOM architectures for our Armed Forces. When floods devastated Srinagar (Operation Meghrahat, 2014), as a unit commander along with his team, he was instrumental in restoring valley-to-rest of India communications within hours. In his illustrious career, Colonel Bhardwaj has represented India in multilateral defense-tech dialogues, managed ICT for Project Dantak in Bhutan, has been instructor at Military College of Engineering, Mhow, has commanded elite Signal Intelligence unit on western border, a strategic communication unit in Srinagar and a Director at Defence Intelligence Agency in MoD. With his vast experience, he also mentors young innovators committed towards national security in cyber-electromagnetic domain. His work and publications in the field of tactical spectrum management, EW in digitized battlefield and customised  cyber-defense tools reflects a mind dedicated to anticipating threats before they strike.","linkdinLink": "https://www.linkedin.com/in/ashwini590/"
             }
