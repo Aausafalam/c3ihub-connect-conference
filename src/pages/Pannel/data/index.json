@@ -5,8 +5,8 @@
             {
                 "name": "Prof. Manindra Agrawal",
                 "title": "Director, IIT Kanpur",
-                "image": "manindraAgrawal.jpg",
-                "shortdescribe": "Renowned computer scientist, globally known for contributions in ComplexityTheory and Cryptography",
+                "image": "manindraAgrawal.jpeg",
+                "shortdescribe": "Renowned computer scientist, globally known for contributions in Complexity Theory and Cryptography",
                 "description": "Prof. Manindra Agrawal is a renowned computer scientist and the Director of IIT Kanpur. Internationally recognized for co-developing the AKS primality test—the first deterministic, polynomial-time algorithm for primality testing—he has made foundational contributions to theoretical computer science.A faculty member at the Department of Computer Science and Engineering, IIT Kanpur, Prof. Agrawal has also served as Deputy Director (2017–2021). His groundbreaking work has earned him numerous prestigious honors, including the Gödel Prize, Shanti Swarup Bhatnagar Award, Infosys Prize, and the Padma Shri.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/agrawalmanindra/?originalSubdomain=in"
@@ -15,7 +15,7 @@
                 "name": "Shri Amit A. Shukla",
                 "title": "(Cyber Diplomacy, e-Governance & Information Technology) Ministry of External Affairs of India",
                 "image": "amitShukla.jpg",
-                "shortdescribe": "Leads India’s cyber diplomacy and e-governance initiatives, shaping the country’sglobal digital agenda",
+                "shortdescribe": "Leads India’s cyber diplomacy and e-governance initiatives, shaping the country’s global digital agenda",
                 "description": "Mr. Amit A Shukla is a career diplomat of India. He has been working as Joint Secretary for Cyber Diplomacy and E-Governance in the Ministry of External Affairs of India since February 2024. Under this charge he is responsible for inter-governmental negotiations on the governance of Internet in bilateral and UN settings. He is also responsible for the administration of ICT assets of the Ministry of External Affairs of India.He has previously served at Indian Missions in Mauritius and Brazil. In the Ministry of External Affairs of India in New Delhi, he has worked on desks related to Bangladesh, Nepal and Bhutan for about eight years. In these neighbourhood-related assignments, he was associated with implementation of a range of India-assisted infrastructure and development cooperation initiatives. Coordination of assistance during Covid-19 pandemic and repatriation of stranded Indians/foreigners was also organized during this tenure.He has been associated extensively with implementation of India’s Neighbourhood First policy. His portfolios at the headquarters included trade, commerce, connectivity, development cooperation, border issues, settlement of India-Bangladesh land and maritime boundaries among others. In his assignments at Indian Missions, he has handled political desk, project implementation, trade & commerce desk, consular desk, protocol and administration matters, among others.","speakerType": "Panelist",
                 "linkdinLink": ""
             },
@@ -32,9 +32,8 @@
                 "name": "Col. Ashwini Bhardwaj",
                 "title": "OSD, Ministry of External Affairs",
                 "image": "Ashwini.jpeg",
-                "shortdescribe": "Over 25 years of experience in government service with specialization in ICT,cybersecurity, and public policy, particularly in defence and foreign affairs",
-                "description": "With over 25 years of experience in government service, Ashwini Bhardwaj specializes in ICT, cybersecurity, and public policy—particularly in the domains of defence and foreign affairs. With a background in software engineering and data science, he has led key national projects focused on secure communications, cloud and information security, and AI/ML integration.He has played a pivotal role in strengthening the country’s digital infrastructure, driving innovations in cybersecurity, and shaping technology policies to support national security. His work combines strategic leadership with deep technical expertise to deliver resilient, future-ready solutions for India’s critical IT and telecommunications frameworks.","speakerType": "Moderator",
-                "linkdinLink": "https://www.linkedin.com/in/ashwini590/"
+                "shortdescribe": "Over 25 years of experience in government service with specialization in ICT, cybersecurity, and public policy",
+                "description": "Colonel Ashwini Bhardwaj, both a soldier and a scholar, is an alumnus of Indian Military Academy, Dehradun.  He was commissioned into the Corps of Signals during the peak of Kargil War in 1999.  He began his career under the blazing guns by supporting combat communications and undertaking electronic warfare operations during Operation Vijay and later as member of army’s elite counter-insurgency force in Kashmir Valley.Today, as Officer on Special Duty at the Ministry of External Affairs, he contributes by safeguarding India’s digital sovereignty by ensuring security of critical ICT infrastructure while shaping future-ready policies.His technical expertise extends beyond the battlefield. An IIT Kharagpur postgraduate in communications with advanced credentials in cybersecurity, AI/ML, electronic warfare and defense diplomacy, he has been involved in planning and engineering of strategic defence networks  and obsolescence-proof SATCOM architectures for our Armed Forces. When floods devastated Srinagar (Operation Meghrahat, 2014), as a unit commander along with his team, he was instrumental in restoring valley-to-rest of India communications within hours. In his illustrious career, Colonel Bhardwaj has represented India in multilateral defense-tech dialogues, managed ICT for Project Dantak in Bhutan, has been instructor at Military College of Engineering, Mhow, has commanded elite Signal Intelligence unit on western border, a strategic communication unit in Srinagar and a Director at Defence Intelligence Agency in MoD. With his vast experience, he also mentors young innovators committed towards national security in cyber-electromagnetic domain. His work and publications in the field of tactical spectrum management, EW in digitized battlefield and customised  cyber-defense tools reflects a mind dedicated to anticipating threats before they strike.","linkdinLink": "https://www.linkedin.com/in/ashwini590/"
             }
         ]
     },
@@ -54,8 +53,8 @@
                 "name": "Sadhna Singh",
                 "title": "Policy Consultant at NITI Aayog | Strategic Affairs & Cybersecurity | Former Army Officer",
                 "image": "sadhnaSingh.jpg",
-                "shortdescribe": "Former Indian Army Officer with over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity, and stakeholder engagement.",
-                "description": "Sadhna Singh is a Consultant at NITI Aayog, bringing over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity, and stakeholder engagement. Her work focuses on driving impactful policy initiatives aligned with India's development goals, particularly in the domains of ICT, national security, and governance. A former officer in the Indian Army’s Corps of Signals, Sadhna brings mission-driven discipline and deep expertise in network administration and secure communications. Her combined military and policy experience enables her to navigate complex challenges with strategic foresight and deliver actionable, system-level solutions. She is passionate about fostering collaboration, driving innovation, and contributing to inclusive and resilient national growth.",
+                "shortdescribe": "Former Indian Army Officer with over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity.",
+                "description": "Sadhna Singh is a Consultant at NITI Aayog, bringing over a decade of cross-sector experience in policy research, strategic affairs, cybersecurity, and stakeholder engagement. Her work focuses on driving impactful policy initiatives aligned with India's development goals, particularly in the domains of ICT, national security, and governance.A former officer in the Indian Army’s Corps of Signals, Sadhna brings mission-driven discipline and deep expertise in network administration and secure communications. Her combined military and policy experience enables her to navigate complex challenges with strategic foresight and deliver actionable, system-level solutions.She has been recognized with several prestigious honours, including Security Professional of the Year 2024, Business World Security 40 Under 40, and the Lady Leadership Award by CAPSI.Passionate about fostering collaboration, driving innovation, and contributing to inclusive and resilient national growth, Sadhna continues to champion initiatives that strengthen India’s strategic and cybersecurity posture.",
                 "speakerType": "Panelist",
                 "linkdinLink": "http://www.linkedin.com/in/sadhna-singh-a4776b1b8/"
             },
@@ -72,7 +71,7 @@
                 "name": "Mini Gupta",
                 "title": "Partner – Cybersecurity, Data Privacy & GRC Technology, EY India ",
                 "image": "Mini.jpg",
-                "shortdescribe": "Over 20 years of expertise in risk management, trusted advisor to clients across Technology, telecom, M&amp;E and BFSI",
+                "shortdescribe": "Over 20 years of expertise in risk management, trusted advisor to clients across Technology, telecom, M&E and BFSI",
                 "description": "With over 20 years of expertise in risk management, Mini Gupta is a trusted advisor to clients across TMT, Manufacturing, Media, and Financial Services. As a Technology Consulting Partner at EY India, she leads large-scale cyber transformations and provides strategic consulting in cybersecurity, data privacy, and technology risk. Mini is known for building high-impact delivery capabilities by leveraging intellectual property, global alliances, and Centres of Excellence. Her core strengths include cyber strategy, GRC implementation, data privacy services, IT risk management, and CISO advisory.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/mini-gupta-8942021/"
@@ -87,7 +86,7 @@
                 "title": "Vice President",
                 "image": "abhishekKakkar.jpg",
                 "shortdescribe": "Abhishek Kakkar is an early-stage venture investor with a strong blend of operational and investment experience.",
-                "description": "Abhishek Kakkar is an early-stage venture investor with a strong blend of operational and investment experience. Currently serving as Vice President at IAN Group, he scouts and supports startups across DeepTech, HealthTech, ClimateTech, Life Sciences, Enterprise Software, and Consumer Innovation. Previously, he built supply ecosystems at Magicpin and led investments at Arka Venture Labs and 91springboard. Passionate about enabling frontier innovation, Abhishek actively contributes to India’s startup ecosystem through mentorship and collaboration with incubators and institutional investors.",
+                "description": "Abhishek brings a distinctive combination of operator and investor perspectives to early-stage venture investing, drawing on hands-on experience in building the supply ecosystem at Magicpin and a track record of leading investments in Enterprise Tech, SMETech, and Analytics at Arka Venture Labs, as well as Consumer Internet at 91springboard.At IAN Group - which includes the IAN Angel Fund, BioAngels and IAN Alpha Fund, Abhishek focuses on identifying and partnering with founders who are building for scale across DeepTech, HealthTech, ClimateTech, Life Sciences, Enterprise Software, and Consumer Innovations, spanning seed to early growth stages.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/kakkarabhishek/"
             },
@@ -127,7 +126,7 @@
                 "name": "Amitava Mukherjee",
                 "title": "Director – Cybersecurity, Siemens",
                 "image": "Amitava.jpg",
-                "shortdescribe": "Over 30 years of experience in IT and cybersecurity governance, strategies,operations &amp; audits",
+                "shortdescribe": "Over 30 years of experience in IT and cybersecurity governance, strategies, operations & audits",
                 "description": "Amitava Mukherjee is a seasoned cybersecurity leader with over 30 years of experience in IT and cybersecurity governance. As Director of Cybersecurity at Siemens, he drives strategic initiatives in cyber risk management, operations, audits, and leadership engagement. Known for his cross-functional expertise, he is also a strong advocate of cybersecurity awareness, collaboration, and mentorship across industries.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/mukherjeeamitava/?originalSubdomain=in"
@@ -136,7 +135,7 @@
                 "name": "Prof. Somitra Sanadhya",
                 "title": "Professor,  IIT Kanpur",
                 "image": "soumitra.jpg",
-                "shortdescribe": "Expert in Cryptology and Security, with key research focuses on QuantumComputation and Blockchains, including cryptocurrencies",
+                "shortdescribe": "Expert in Cryptology and Security, with key research focuses on Quantum Computation, Blockchains and cryptocurrencies",
                 "description": "Prof. Somitra Sanadhya is a leading expert in cryptography and cybersecurity, currently teaching at IIT Kanpur. With over two decades of experience, his research spans post-quantum cryptography, blockchain security, and side-channel attacks. He previously served as Dean and CISO at IIT Jodhpur and has played key roles in major national cybersecurity initiatives.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/somitra-sanadhya-4556a41/?originalSubdomain=in"
@@ -145,7 +144,7 @@
                 "name": "Dr. Bharat Panchal",
                 "title": "Cybersecurity Architect",
                 "image": "bharat.jpeg",
-                "shortdescribe": "Known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, andnational platforms like cybercrime.gov.in and the 1930 helpline",
+                "shortdescribe": "Known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in",
                 "description": "A leading force in India’s cybersecurity and risk management landscape, known for architecting secure frameworks for UPI, RuPay, AEPS, FastTag, and national platforms like cybercrime.gov.in and the 1930 helpline. Played a pivotal role in shaping the country’s digital payment security while building high-performing risk teams at NPCI.Advises key government bodies including MEITY, CERT-IN, RBI, and IDRBT, and works closely with global networks like VISA, MasterCard, SWIFT, and World Bank. A globally recognized speaker, featured in 250+ Indian and 25+ international conferences across 40+ countries. Now driving the vision behind Bima Sugam, India’s unified digital insurance platform.",
                 "speakerType": "Panelist",
                 "linkdinLink": "https://www.linkedin.com/in/bharatpanchal/"
@@ -163,7 +162,7 @@
                 "name": "Ranjeet Mishra",
                 "title": "Strategy Leader",
                 "image": "ranjeet.jpg",
-                "shortdescribe": "Technology business professional with over 24 years expertise in cybersecurity,deep-tech startup ecosystem, business development, also cyber range instructor",
+                "shortdescribe": "24 years expertise in cybersecurity, deep-tech startup ecosystem, business development, also cyber range instructor",
                 "description": "Ranjeet Mishra is a seasoned technology and strategy leader with over 24 years of global experience across North America, APAC, and the Middle East. He specializes in go-to-market strategy, international business development, and scaling deep-tech startups in IT, telecom, and cybersecurity. With deep expertise in cybersecurity policy, governance, and risk frameworks, Ranjeet has worked extensively in areas such as IoT security, deception technologies, threat intelligence, and SoC management. He is also actively involved in cybercrime investigation frameworks, Cyberrange training, and startup incubation.A trusted advisor and technical mentor, Ranjeet is passionate about driving innovation, digital transformation, and building resilient cybersecurity ecosystems.",
                 "speakerType": "Moderator",
                 "linkdinLink": "https://www.linkedin.com/in/ranjeet-mishra-0a687916/"
