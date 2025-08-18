@@ -44,7 +44,7 @@ const RDExhibit = () => {
     return (
         <section className={styles.container_wrapper}>
             <div className={styles.container_sub_title}>
-                Explore how start-ups nurtured at c3ihub are shaping the future of cybersecurity. Join us for Live Demonstrations, Product Launch, and Pitching Session that redefine digital safety
+                Explore how start-ups nurtured at C3ihub are shaping the future of cybersecurity. Join us for Live Demonstrations, Product Launch, and Pitching Session that redefine digital safety
             </div>
             <button onClick={toggleVideoPopup} className={styles.playBtn}></button>
 
@@ -125,52 +125,3 @@ const RDExhibit = () => {
 };
 
 export default RDExhibit;
-
-// REMOVED DATA FROM R&D JSON FILE
-
-// {
-//     "name": "Dr. Sabu M Thampi",
-//     "designation": "Professor, School of CSE Coordinator - Connected Systems and Intelligence Lab",
-//     "instituteName": "IIITM Kerala",
-//     "projectTitle": "Novel Security Framework for Internet of Drones",
-//     "instituteHomePage": "https://www.iiitmk.ac.in/"
-// },
-// {
-//     "name": "Dr. Neminath Hubballi",
-//     "designation": "Professor, Department of Computer Science and Engineering",
-//     "instituteName": "IIT Indore",
-//     "projectTitle": "Detecting Collusion and Data Manipulation Attacks in Smart-Grid Networks",
-//     "instituteHomePage": "https://www.iiti.ac.in/"
-// },
-// {
-//     "name": "Dr. Rajesh Kumar",
-//     "designation": "Assistant Professor, Department of Computer Science & Information Systems",
-//     "instituteName": "BITS Pilani (Goa Campus)",
-//     "projectTitle": "Predictor and Analyzer of Security Threats (PAST): A Model-based Risk Analysis Framework for Critical Interconnected Infrastructures",
-//     "instituteHomePage": "https://www.bits-pilani.ac.in/"
-// },
-// {
-//     "name": "Dr. Harkeerat Kaur",
-//     "designation": "Assistant Professor, Department of Computer Science and Engineering",
-//     "instituteName": "IIT Jammu",
-//     "projectTitle": "Smart Data Agent for Location Management and Privacy",
-//     "instituteHomePage": "https://www.iitjammu.ac.in/"
-// },
-// {
-//     "name": "Dr. Deepak Ronanki",
-//     "designation": "Assistant Professor, Department of Engineering Design",
-//     "instituteName": "IIT Madras",
-//     "projectTitle": "Smart Cyber-Physical Security of Electric Powertrains in Autonomous e-Mobility Systems",
-//     "instituteHomePage": "https://www.iitm.ac.in/"
-// },
-
-// REMOVED DATA FROM STARTUP JSON FILE
-
-// {
-//     "logo": "COSGrid.png",
-//     "link": "https://www.cosgrid.com/"
-// },
-// {
-//     "logo": "Xpanso.png",
-//     "link": "https://www.cloudoptimo.com/"
-// }
