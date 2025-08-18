@@ -45,7 +45,7 @@ const RDExhibit = () => {
     <section className={styles.container_wrapper}>
      
       <div className={styles.container_sub_title}>
-        Explore how start-ups nurtured at c3ihub are shaping the future of
+        Explore how start-ups nurtured at C3ihub are shaping the future of
         cybersecurity. Join us for Live Demonstrations, Product Launch, and
         Pitching Session that redefine digital safety
       </div>
